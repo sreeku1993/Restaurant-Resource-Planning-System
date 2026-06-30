@@ -1,0 +1,6 @@
+date	predicted_covers	actual_covers	reason
+25-06-2026	100	95	Regular weekday
+26-06-2026	120	140	Weekend rush
+27-06-2026	120	110	Local event
+28-06-2026	110	70	Heavy rain
+29-06-2026	100	105	Standard service

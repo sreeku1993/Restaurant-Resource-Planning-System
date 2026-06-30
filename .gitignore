@@ -1,0 +1,47 @@
+# Virtual Environment
+venv/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build / Distribution
+build/
+dist/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Pytest
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model Artifacts
+# Ignore only if model can be regenerated
+# models/*.pkl
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Environment Files
+.env.local
+.env.dev
+.env.production
